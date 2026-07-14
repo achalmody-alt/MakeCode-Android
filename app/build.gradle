@@ -28,7 +28,7 @@ android {
     defaultConfig {
         applicationId "tech.rishit.makecode_android"
         minSdkVersion 24
-        targetSdkVersion 35
+        targetSdkVersion 34
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
